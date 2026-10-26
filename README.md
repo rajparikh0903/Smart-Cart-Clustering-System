@@ -42,5 +42,5 @@ jupyter notebook Smart_Cart_Clustering_System_fixed.ipynb
 Place `smartcart_customers.csv` in the same folder as the notebook.
 
 ## Files
-- `Smart_Cart_Clustering_System_fixed.ipynb`: full analysis
+- `Smart_Cart_Clustering_System.ipynb`: full analysis
 - `smartcart_customers.csv`: dataset
