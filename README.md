@@ -37,7 +37,7 @@ SmartCart applies the same marketing to every customer. The goal is to group cus
 ## Run it
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn kneed jupyter
-jupyter notebook Smart_Cart_Clustering_System_fixed.ipynb
+jupyter notebook Smart_Cart_Clustering_System.ipynb
 ```
 Place `smartcart_customers.csv` in the same folder as the notebook.
 
